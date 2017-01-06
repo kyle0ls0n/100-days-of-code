@@ -11,5 +11,7 @@
 <a href="http://codepen.io/0ls0n/full/KaPLZB">Go see my Weather App!</a> </p>
 <p><em>Day 4</em>: January 4, 2017 </br>
 <em>Description</em>: I started on the Wikipedia Viewer page! I'm getting a little more creative with CSS and layout, which is fun! I started on a skeleton of the JavaScript. Basically, from here I need to learn how the Wikipedia API works, and implement it on my app. Then I'll figure out the layout and look of the search results, and what happens if they search twice, or if there is a "clear search" option.</p>
+<p><strong>Day 5</strong>: January 5, 2017 </br>
+<strong>Description</strong>: I made huge headway with my Wikipedia Viewer today. I learned about how the Wikipedia API works, what parameters should be called and how. I ran into lots of bugs along the way, including a problem where my search results were being displayed in reverse order. I altered the For loop to count backwards, and the issue was solved! I'm currently having a difficult time getting the 'keypress' method to work. My intention is for the search engine to work when you press "Enter." But Ajax is sending me a fail message. So I'll work some more on that, and also style the CSS of the result table to look as rad as the rest of the app!</p>
 
 </html>
