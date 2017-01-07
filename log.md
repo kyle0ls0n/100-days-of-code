@@ -14,6 +14,7 @@
 <p><strong>Day 5</strong>: January 5, 2017 </br>
 <strong>Description</strong>: I made huge headway with my Wikipedia Viewer today. I learned about how the Wikipedia API works, what parameters should be called and how. I ran into lots of bugs along the way, including a problem where my search results were being displayed in reverse order. I altered the For loop to count backwards, and the issue was solved! I'm currently having a difficult time getting the 'keypress' method to work. My intention is for the search engine to work when you press "Enter." But Ajax is sending me a fail message. So I'll work some more on that, and also style the CSS of the result table to look as rad as the rest of the app!</p>
 <p><strong>Day 6</strong>: January 6, 2017 </br>
-<strong>Description</strong>: Excited to say I have finished the Wikipedia viewer. I was mainly working with CSS and a little HTML today. I wanted a specific look for the search results (curved corners on the table format, a little padding between borders and content). I also added a placeholder to the text input field. I think the design is kind of cool! Looking forward to the next challenge!</p>
+<strong>Description</strong>: Excited to say I have finished the Wikipedia viewer. I was mainly working with CSS and a little HTML today. I wanted a specific look for the search results (curved corners on the table format, a little padding between borders and content). I also added a placeholder to the text input field. I think the design is kind of cool! Looking forward to the next challenge!</br>
+<a href="https://codepen.io/0ls0n/full/JEjLzJ/">Go see my Wikipedia Viewer!</a></p>
 
 </html>
