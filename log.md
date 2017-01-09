@@ -16,5 +16,8 @@
 <p><strong>Day 6</strong>: January 6, 2017 </br>
 <strong>Description</strong>: Excited to say I have finished the Wikipedia viewer. I was mainly working with CSS and a little HTML today. I wanted a specific look for the search results (curved corners on the table format, a little padding between borders and content). I also added a placeholder to the text input field. I think the design is kind of cool! Looking forward to the next challenge!</br>
 <a href="https://codepen.io/0ls0n/full/JEjLzJ/">Go see my Wikipedia Viewer!</a></p>
+</br>
+<p><em>Day 7</em>: January 8, 2017 </br>
+<em>Description</em>: I missed yesterday because of a ski trip! But today I was back, getting the basics together for the TwitchTV app. I'm not familiar with the service, so I'm not exactly sure of the purpose for this app. What I do know is that it uses a API call to retrieve info from a Streaming Channel. My app should indicate if a certain channel is online or offline, and, if it is online, what program it is showing. I should also be able to display which users are online and what they are watching. This is going to take getting familiar with TwitchTV's API and the different elements involved with the URL. I really want to know this thing inside and out, because I believe JSON is really important part of jQuery. It seems to be involved with most projects Free Code Camp is throwing my way!</p>
 
 </html>
