@@ -19,5 +19,7 @@
 </br>
 <p><em>Day 7</em>: January 8, 2017 </br>
 <em>Description</em>: I missed yesterday because of a ski trip! But today I was back, getting the basics together for the TwitchTV app. I'm not familiar with the service, so I'm not exactly sure of the purpose for this app. What I do know is that it uses a API call to retrieve info from a Streaming Channel. My app should indicate if a certain channel is online or offline, and, if it is online, what program it is showing. I should also be able to display which users are online and what they are watching. This is going to take getting familiar with TwitchTV's API and the different elements involved with the URL. I really want to know this thing inside and out, because I believe JSON is really important part of jQuery. It seems to be involved with most projects Free Code Camp is throwing my way!</p>
+<p><em>Day 8</em>: January 9, 2017 </br>
+<em>Description</em>: Today I did a lot of work on the TwitchTV app. I have stuck to my plan to stay away from YouTube and other help/tutorials. I have completed a few of the User Story requirements, and I'm getting much better at navigating API calls. I can tell you if a certain channel is currently streaming or not. I still have to solve how to display if and what certain Users are streaming. I think I'm getting closer though!</p>
 
 </html>
