@@ -22,5 +22,11 @@
 <p><em>Day 8</em>: January 9, 2017 </br>
 <em>Description</em>: Today I did a lot of work on the TwitchTV app. I have stuck to my plan to stay away from YouTube and other help/tutorials. I have completed a few of the User Story requirements, and I'm getting much better at navigating API calls. I can tell you if a certain channel is currently streaming or not. I still have to solve how to display if and what certain Users are streaming. I think I'm getting closer though!</p>
 <p><em>Day 9</em>: January 10, 2017 </br>
-<em>Description</em>: I hit a wall with the TwitchTV app, and had to seek out help with the API addresses for the User portion of the challenge. The YouTube channel, 360 Tutorial, has been so helpful with these projects. I finished the app -- it's not perfect, but I think I should keep moving forward. I have definitely learned a ton about API's and continue to keep learning more as I go. I did an Algorithm back on FCC, and remembered how difficult these things are. Wish me luck!</p>
+<em>Description</em>: I hit a wall with the TwitchTV app, and had to seek out help with the API addresses for the User portion of the challenge. The YouTube channel, 360 Tutorial, has been so helpful with these projects. I finished the app -- it's not perfect, but I think I should keep moving forward. I have definitely learned a ton about API's and continue to keep learning more as I go. I did an Algorithm back on FCC, and remembered how difficult these things are. Wish me luck!</br>
+<a href="https://codepen.io/0ls0n/full/egpNRE/">Go see my TwitchTV app!</a></p>
+<p><em>Day 10</em>: January 11, 2017 </br>
+<em>Description</em>: I was feeling under the weather today, so I only did a couple Algorithms. I'm really struggling with callback functions and how to use them. It seems like this magical element that you just drop into code, and it does the job of 5 For Loops.</p>
+<p><strong>Day 11</strong>: January 12, 2017 </br>
+<strong>Description</strong>: Today was very productive! I worked on about 5 algorithms, and solved a few of them without any help! I still struggled with callback functions, so I spent some time watching tutorial videos on Callback Functions themselves. I did not make it to Coffee & Code tonight. I really need to make an effort next time! </p>
 </html>
+
