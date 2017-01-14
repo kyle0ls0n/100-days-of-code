@@ -28,5 +28,9 @@
 <em>Description</em>: I was feeling under the weather today, so I only did a couple Algorithms. I'm really struggling with callback functions and how to use them. It seems like this magical element that you just drop into code, and it does the job of 5 For Loops.</p>
 <p><strong>Day 11</strong>: January 12, 2017 </br>
 <strong>Description</strong>: Today was very productive! I worked on about 5 algorithms, and solved a few of them without any help! I still struggled with callback functions, so I spent some time watching tutorial videos on Callback Functions themselves. I did not make it to Coffee & Code tonight. I really need to make an effort next time! </p>
+<p><strong>Day 12</strong>: January 13, 2017 </br>
+<strong>Description</strong>: Worked for a while on the "Convert HTML Entities" alogrithm. Needed help, so found the solution, and then learned backwards. Definitely know a lot more about Regular Expressions and the .replace() method now!</p>
+<p><strong>Day 13</strong>: Jamuary 14, 2017</br>
+<strong>Description</strong>: Feel good about the work I did today! Worked through a couple algorithms: "Spinal Tap Case" and "Sum of All Fibonacci Numbers." I got part of the Spinal Case problem right away, but had to learn a little more about the .replace() method, and how to add space in the middle of alphanumeric characters with the "$1 $2" argument. Then I totally nailed the Fibonacci Number problem! All right! </p>
 </html>
 
